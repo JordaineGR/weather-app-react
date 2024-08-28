@@ -8,6 +8,7 @@ function App() {
         <h1>Weather App</h1>
       </header>
       <Weather />
+      <a href="https://github.com/JordaineGR/weather-app-react"> GitHub</a>
     </div>
   );
 }
